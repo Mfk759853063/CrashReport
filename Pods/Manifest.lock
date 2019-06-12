@@ -1,0 +1,28 @@
+PODS:
+  - CocoaDebug (0.7.2)
+  - ObjcExceptionBridging (1.0.1):
+    - ObjcExceptionBridging/ObjcExceptionBridging (= 1.0.1)
+  - ObjcExceptionBridging/ObjcExceptionBridging (1.0.1)
+  - XCGLogger (7.0.0):
+    - XCGLogger/Core (= 7.0.0)
+  - XCGLogger/Core (7.0.0):
+    - ObjcExceptionBridging
+
+DEPENDENCIES:
+  - CocoaDebug
+  - XCGLogger (~> 7.0.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - CocoaDebug
+    - ObjcExceptionBridging
+    - XCGLogger
+
+SPEC CHECKSUMS:
+  CocoaDebug: aa6cef44edec435774b43e8ccdfaf305eb58053a
+  ObjcExceptionBridging: c30e00eb3700467e695faeea30e26e18bd445001
+  XCGLogger: 0434f15e3909cdc450bb63faf638b8792ab782ab
+
+PODFILE CHECKSUM: aa4f5e41b8a783d7bd94fd3cf7550bf09d8712cd
+
+COCOAPODS: 1.6.2
